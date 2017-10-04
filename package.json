@@ -4,7 +4,8 @@
   "private": true,
   "dependencies": {
     "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "react-dom": "^16.0.0",
+    "underscore": "^1.8.3"
   },
   "devDependencies": {
     "react-scripts": "^1.0.14"
@@ -14,5 +15,18 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "This starter project has everything you need to start writing React as fast as possible.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konkura/EmojiSearch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konkura/EmojiSearch/issues"
+  },
+  "homepage": "https://github.com/konkura/EmojiSearch#readme"
 }
